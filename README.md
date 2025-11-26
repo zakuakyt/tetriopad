@@ -8,7 +8,7 @@ this was my first time using kicad so I spent a bit more time on this but picked
 
 ## 2. routing
 Using the hackpad tutorial, I routed all the components, using frontside and backside. I also added an image and some other random stuff to the silkscreen to make it cooler.
-![routing screenshot](images/Screenshot 2025-11-26 113553.png)
+![Diagram](https://github.com/<username>/<repo>/blob/main/images/diagram.png?raw=true)
 
 
 
