@@ -1,5 +1,7 @@
 # tetriopad
 my HackClub Blueprint submission - a custom macro pad for the online game tetr.io
+<img width="689" height="915" alt="Screenshot 2026-01-04 130511" src="https://github.com/user-attachments/assets/1fcd258a-4e80-4bfb-9df3-a30b35cdf33d" />
+
 ![Diagram](https://github.com/spicyweedtimmothyoh/tetriopad/blob/main/images/Screenshot%202025-11-26%20122318.png)
 
 
